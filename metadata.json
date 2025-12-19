@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Shop",
+  "description": "A high-performance e-commerce platform built with React, featuring real-time product browsing, advanced filtering, debounced search, and a persistent shopping cart experience.",
+  "requestFramePermissions": []
+}
