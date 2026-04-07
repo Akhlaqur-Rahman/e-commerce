@@ -41,7 +41,7 @@ A modern **E-Commerce Web Application** where users can browse products, add ite
 
 ## 🏠 Products Page
 
-![Products Page](./screenshots/products.png)
+![Products Page](https://raw.githubusercontent.com/Akhlaqur-Rahman/e-commerce/main/screenshots/products.png)
 
 Shows all products with categories, ratings, discounts, and add-to-cart option.
 
@@ -49,7 +49,8 @@ Shows all products with categories, ratings, discounts, and add-to-cart option.
 
 ## 🛒 Cart Page
 
-![Cart Page](./screenshots/cart.png)
+![Cart Page](https://raw.githubusercontent.com/Akhlaqur-Rahman/e-commerce/main/screenshots/card.png)
+
 
 Users can manage their cart items, update quantity, remove products, and view subtotal.
 
