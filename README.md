@@ -1,20 +1,127 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+\# 🛒 Rahman Shop – E-Commerce Web Application
 
-# Run and deploy your AI Studio app
+A modern **E-Commerce Web Application** where users can browse products, add items to the cart, and manage their shopping experience through a clean and responsive UI.
 
-This contains everything you need to run your app locally.
+🔗 **Live Demo:** https://e-commerce-eight-flax-84.vercel.app
 
-View your app in AI Studio: https://ai.studio/apps/drive/1KpKHnma6Ud2VKwHYfMfMvPtIl-fY5-nd
+---
 
-## Run Locally
+# 🚀 Features
 
-**Prerequisites:**  Node.js
+* 🛍️ Browse products with categories
+* 🔍 Search products easily
+* ➕ Add products to cart
+* 🛒 Manage cart items
+* 💰 Automatic subtotal calculation
+* 📱 Fully responsive design
+* ⚡ Fast and smooth UI
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# 🛠️ Tech Stack
+
+**Frontend**
+
+* React.js
+* JavaScript
+* Tailwind CSS / CSS
+
+**Tools**
+
+* Git
+* GitHub
+
+**Deployment**
+
+* Vercel
+
+---
+
+# 📸 Screenshots
+
+## 🏠 Products Page
+
+![Products Page](./screenshots/products.png)
+
+Shows all products with categories, ratings, discounts, and add-to-cart option.
+
+---
+
+## 🛒 Cart Page
+
+![Cart Page](./screenshots/cart.png)
+
+Users can manage their cart items, update quantity, remove products, and view subtotal.
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/ecommerce-project.git
+```
+
+Go to project folder
+
+```bash
+cd ecommerce-project
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm start
+```
+
+App will run on:
+
+```
+http://localhost:3000
+```
+
+---
+
+# 🌐 Deployment
+
+The project is deployed on **Vercel**
+
+Live Link
+
+```
+https://e-commerce-eight-flax-84.vercel.app
+```
+
+---
+
+# 📂 Project Structure
+
+```
+src
+ ├── components
+ ├── pages
+ ├── context
+ ├── utils
+ ├── App.js
+ └── index.js
+```
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+Feel free to fork the repository and create a pull request.
+
+---
+
+# ⭐ Support
+
+If you like this project, please ⭐ the repository on GitHub.
